@@ -12,3 +12,4 @@ wallabag/wallabag
 redis
 mariadb
 wbsu2003/tinyfilemanager
+containrrr/watchtower
