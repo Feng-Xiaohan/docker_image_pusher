@@ -4,3 +4,11 @@ freshrss/freshrss
 wangqiru/ttrss
 cooderl/wewe-rss
 cooderl/wewe-rss-sqlite:latest
+chenhw2/aliyun-ddns-cli
+diygod/rsshub
+johngong/calibre-web
+bililive/recorder
+wallabag/wallabag
+redis
+mariadb
+wbsu2003/tinyfilemanager
