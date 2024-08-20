@@ -2,3 +2,4 @@ easychen/rsspush
 rook1e404/fusion
 freshrss/freshrss
 wangqiru/ttrss
+cooderl/wewe-rss
