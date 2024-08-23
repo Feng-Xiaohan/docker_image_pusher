@@ -13,4 +13,4 @@ redis
 mariadb
 wbsu2003/tinyfilemanager
 containrrr/watchtower
-athou/commafeed
+athou/commafeed:latest-h2
