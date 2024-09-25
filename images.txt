@@ -14,3 +14,4 @@ mariadb
 wbsu2003/tinyfilemanager
 containrrr/watchtower
 athou/commafeed:latest-h2
+zgq354/weibo-rss
