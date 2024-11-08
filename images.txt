@@ -18,3 +18,4 @@ athou/commafeed:latest-h2
 zgq354/weibo-rss
 fugary/simple-boot-douban-api
 ghcr.io/hoarder-app/hoarder-web:latest
+ghcr.io/hoarder-app/hoarder-web:${HOARDER_VERSION:-release}
