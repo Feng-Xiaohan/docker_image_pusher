@@ -18,7 +18,7 @@ athou/commafeed:latest-h2
 zgq354/weibo-rss
 fugary/simple-boot-douban-api
 ghcr.io/hoarder-app/hoarder-web:latest
-ghcr.io/hoarder-app/hoarder-web:${HOARDER_VERSION:-release}
+ghcr.io/hoarder-app/hoarder-web:sha256:c262c576af239ca4c3c3853f1d76f5adfd0f274d3e6a6f26c9f8ea0d28cb9a4d
 gcr.io/zenika-hub/alpine-chrome:100
 getmeili/meilisearch:v1.6
 ghcr.io/mohamedbassem/hoarder-workers:latest
