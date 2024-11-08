@@ -20,6 +20,7 @@ fugary/simple-boot-douban-api
 ghcr.io/hoarder-app/hoarder-web:latest
 ghcr.io/hoarder-app/hoarder-web:release
 gcr.io/zenika-hub/alpine-chrome:100
+gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.6
 ghcr.io/mohamedbassem/hoarder-workers:latest
 ghcr.io/mohamedbassem/hoarder-workers:release
