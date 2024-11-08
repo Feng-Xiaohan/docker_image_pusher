@@ -9,7 +9,7 @@ diygod/rsshub
 johngong/calibre-web
 bililive/recorder
 wallabag/wallabag
-redis
+redis:alpine
 mariadb
 wbsu2003/tinyfilemanager
 containrrr/watchtower
