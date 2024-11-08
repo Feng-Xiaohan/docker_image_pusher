@@ -19,3 +19,6 @@ zgq354/weibo-rss
 fugary/simple-boot-douban-api
 ghcr.io/hoarder-app/hoarder-web:latest
 ghcr.io/hoarder-app/hoarder-web:${HOARDER_VERSION:-release}
+gcr.io/zenika-hub/alpine-chrome:100
+getmeili/meilisearch:v1.6
+ghcr.io/mohamedbassem/hoarder-workers:latest
