@@ -10,6 +10,7 @@ johngong/calibre-web
 bililive/recorder
 wallabag/wallabag
 redis:alpine
+redis:7.2-alpine
 mariadb
 wbsu2003/tinyfilemanager
 containrrr/watchtower
