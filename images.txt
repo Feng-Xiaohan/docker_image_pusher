@@ -24,3 +24,4 @@ gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.6
 ghcr.io/mohamedbassem/hoarder-workers:latest
 ghcr.io/mohamedbassem/hoarder-workers:release
+amtoaer/bili-sync-rs:latest
