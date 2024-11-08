@@ -16,4 +16,3 @@ containrrr/watchtower
 athou/commafeed:latest-h2
 zgq354/weibo-rss
 fugary/simple-boot-douban-api
-chenhw2/aliyun-ddns-cli
