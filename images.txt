@@ -26,3 +26,4 @@ ghcr.io/mohamedbassem/hoarder-workers:latest
 ghcr.io/mohamedbassem/hoarder-workers:release
 amtoaer/bili-sync-rs:latest
 hamsterbase/hamsterbase:latest
+johngong/koreader-highlight-joplin-server:latest
