@@ -28,3 +28,4 @@ amtoaer/bili-sync-rs:latest
 hamsterbase/hamsterbase:latest
 johngong/koreader-highlight-joplin-server:latest
 ghcr.io/sillytavern/sillytavern:latest
+lss233/kirara-agent-framework:latest
