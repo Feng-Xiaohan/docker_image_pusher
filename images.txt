@@ -29,3 +29,4 @@ hamsterbase/hamsterbase:latest
 johngong/koreader-highlight-joplin-server:latest
 lss233/kirara-agent-framework:latest
 ghcr.io/sillytavern/sillytavern:latest
+dreamacro/clash
