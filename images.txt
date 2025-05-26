@@ -30,3 +30,6 @@ johngong/koreader-highlight-joplin-server:latest
 lss233/kirara-agent-framework:latest
 ghcr.io/sillytavern/sillytavern:latest
 dreamacro/clash
+jwilder/nginx-proxy
+nginxproxy/acme-companion
+containrrr/watchtower
