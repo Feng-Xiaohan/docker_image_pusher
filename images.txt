@@ -32,3 +32,4 @@ dreamacro/clash
 jwilder/nginx-proxy
 nginxproxy/acme-companion
 containrrr/watchtower
+diygod/rsshub
