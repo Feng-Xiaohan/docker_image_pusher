@@ -33,3 +33,4 @@ jwilder/nginx-proxy
 nginxproxy/acme-companion
 containrrr/watchtower
 diygod/rsshub
+diygod/rsshub:chromium-bundled
