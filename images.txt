@@ -34,3 +34,4 @@ nginxproxy/acme-companion
 containrrr/watchtower
 diygod/rsshub
 diygod/rsshub:chromium-bundled
+ghcr.io/xerxes-2/clewdr:latest
