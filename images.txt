@@ -38,3 +38,4 @@ ghcr.io/xerxes-2/clewdr:latest
 synctvorg/synctv:latest
 adolfintel/speedtest
 ghcr.io/feng-xiaohan/deeproleplaydocker:latest
+omarmir/nanote:0.11.0
