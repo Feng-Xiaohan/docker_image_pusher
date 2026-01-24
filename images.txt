@@ -39,3 +39,4 @@ synctvorg/synctv:latest
 adolfintel/speedtest
 ghcr.io/feng-xiaohan/deeproleplaydocker:latest
 omarmir/nanote:0.11.0
+linuxserver/obsidian:1.11.5
