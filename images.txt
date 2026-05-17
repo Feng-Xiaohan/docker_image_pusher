@@ -23,7 +23,7 @@ gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.6
 ghcr.io/mohamedbassem/hoarder-workers:latest
 ghcr.io/mohamedbassem/hoarder-workers:release
-amtoaer/bili-sync-rs:latest
+amtoaer/bili-sync-rs:v2.11.1
 hamsterbase/hamsterbase:latest
 johngong/koreader-highlight-joplin-server:latest
 lss233/kirara-agent-framework:latest
