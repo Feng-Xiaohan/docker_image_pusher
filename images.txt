@@ -47,3 +47,4 @@ ghcr.io/immich-app/postgres:14-vectorchord0.4.3-pgvectors0.2.0
 soulter/shipyard-ship:latest
 xprobe/xinference:v1.13.0-cpu
 qdrant/qdrant:v1.17
+node:22-alpine
