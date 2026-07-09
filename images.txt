@@ -49,3 +49,4 @@ xprobe/xinference:v1.13.0-cpu
 qdrant/qdrant:v1.17
 node:22-alpine
 gdy666/lucky:2.27.2
+nginx:alpine
