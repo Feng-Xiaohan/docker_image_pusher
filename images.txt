@@ -27,7 +27,7 @@ amtoaer/bili-sync-rs:v2.11.1
 hamsterbase/hamsterbase:latest
 johngong/koreader-highlight-joplin-server:latest
 lss233/kirara-agent-framework:latest
-ghcr.io/sillytavern/sillytavern:1.14.0
+ghcr.io/sillytavern/sillytavern:1.18.0
 dreamacro/clash
 jwilder/nginx-proxy
 nginxproxy/acme-companion
