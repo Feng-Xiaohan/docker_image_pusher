@@ -1,3 +1,4 @@
+ghcr.io/alexta69/metube:latest
 easychen/rsspush
 rook1e404/fusion
 freshrss/freshrss
